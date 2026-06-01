@@ -1,0 +1,21 @@
+{
+  "slug": "regulations-gov",
+  "name": "Regulations.gov API",
+  "current_status": "down",
+  "current_latency_ms": 506,
+  "last_checked": "2026-06-01T18:40:57.357718+00:00",
+  "uptime_7d": 0.0,
+  "history": [
+    {
+      "slug": "regulations-gov",
+      "timestamp": "2026-06-01T18:40:57.357718+00:00",
+      "status": "down",
+      "status_code": 400,
+      "latency_ms": 506,
+      "body_hash": "141d0eee920f04ea",
+      "schema_sample": null,
+      "error": null
+    }
+  ],
+  "changelog": []
+}

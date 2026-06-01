@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Federal API Changelog</title>
+    <link>https://stark256-spec.github.io/federal-api-watch/</link>
+    <description>Uptime and schema change events for U.S. federal government APIs.</description>
+    <language>en-us</language>
+    <atom:link href="https://stark256-spec.github.io/federal-api-watch/feed.xml" rel="self" type="application/rss+xml"/>
+    
+  </channel>
+</rss>

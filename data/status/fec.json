@@ -1,0 +1,25 @@
+{
+  "slug": "fec",
+  "name": "FEC API",
+  "current_status": "up",
+  "current_latency_ms": 444,
+  "last_checked": "2026-06-01T18:40:57.355420+00:00",
+  "uptime_7d": 100.0,
+  "history": [
+    {
+      "slug": "fec",
+      "timestamp": "2026-06-01T18:40:57.355420+00:00",
+      "status": "up",
+      "status_code": 200,
+      "latency_ms": 444,
+      "body_hash": "a266f53b27f50875",
+      "schema_sample": [
+        "api_version",
+        "pagination",
+        "results"
+      ],
+      "error": null
+    }
+  ],
+  "changelog": []
+}
