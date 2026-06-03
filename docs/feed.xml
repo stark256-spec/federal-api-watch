@@ -8,6 +8,14 @@
     <atom:link href="https://stark256-spec.github.io/federal-api-watch/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
+      <title>openFDA API: degraded → up</title>
+      <link>https://stark256-spec.github.io/federal-api-watch/</link>
+      <description>openFDA API changed status from degraded to up</description>
+      <pubDate>2026-06-03T22:52:16.670396+00:00</pubDate>
+      <guid isPermaLink="false">open-fda-2026-06-03T22:52:16.670396+00:00</guid>
+    </item>
+    
+    <item>
       <title>openFDA API: up → degraded</title>
       <link>https://stark256-spec.github.io/federal-api-watch/</link>
       <description>openFDA API changed status from up to degraded</description>
