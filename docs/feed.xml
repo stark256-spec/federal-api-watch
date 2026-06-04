@@ -8,6 +8,22 @@
     <atom:link href="https://stark256-spec.github.io/federal-api-watch/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
+      <title>eCFR API: down → up</title>
+      <link>https://stark256-spec.github.io/federal-api-watch/</link>
+      <description>eCFR API changed status from down to up</description>
+      <pubDate>2026-06-04T09:09:11.410209+00:00</pubDate>
+      <guid isPermaLink="false">ecfr-2026-06-04T09:09:11.410209+00:00</guid>
+    </item>
+    
+    <item>
+      <title>Federal Register API: down → up</title>
+      <link>https://stark256-spec.github.io/federal-api-watch/</link>
+      <description>Federal Register API changed status from down to up</description>
+      <pubDate>2026-06-04T09:09:11.409743+00:00</pubDate>
+      <guid isPermaLink="false">federal-register-2026-06-04T09:09:11.409743+00:00</guid>
+    </item>
+    
+    <item>
       <title>NASA APOD API: schema changed</title>
       <link>https://stark256-spec.github.io/federal-api-watch/</link>
       <description>Top-level keys changed from [&#39;copyright&#39;, &#39;date&#39;, &#39;explanation&#39;, &#39;hdurl&#39;, &#39;media_type&#39;, &#39;service_version&#39;, &#39;title&#39;, &#39;url&#39;] to [&#39;date&#39;, &#39;explanation&#39;, &#39;hdurl&#39;, &#39;media_type&#39;, &#39;service_version&#39;, &#39;title&#39;, &#39;url&#39;]</description>
