@@ -8,6 +8,22 @@
     <atom:link href="https://stark256-spec.github.io/federal-api-watch/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
+      <title>openFDA API: schema changed</title>
+      <link>https://stark256-spec.github.io/federal-api-watch/</link>
+      <description>Top-level keys changed from [&#39;meta&#39;, &#39;results&#39;] to [&#39;error&#39;]</description>
+      <pubDate>2026-06-07T20:37:01.317435+00:00</pubDate>
+      <guid isPermaLink="false">open-fda-2026-06-07T20:37:01.317435+00:00</guid>
+    </item>
+    
+    <item>
+      <title>openFDA API: up → down</title>
+      <link>https://stark256-spec.github.io/federal-api-watch/</link>
+      <description>openFDA API changed status from up to down</description>
+      <pubDate>2026-06-07T20:37:01.317435+00:00</pubDate>
+      <guid isPermaLink="false">open-fda-2026-06-07T20:37:01.317435+00:00</guid>
+    </item>
+    
+    <item>
       <title>NASA APOD API: up → down</title>
       <link>https://stark256-spec.github.io/federal-api-watch/</link>
       <description>NASA APOD API changed status from up to down</description>
