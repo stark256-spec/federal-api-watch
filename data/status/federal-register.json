@@ -2,9 +2,9 @@
   "slug": "federal-register",
   "name": "Federal Register API",
   "current_status": "up",
-  "current_latency_ms": 306,
-  "last_checked": "2026-06-13T14:35:28.853421+00:00",
-  "uptime_7d": 87.96,
+  "current_latency_ms": 361,
+  "last_checked": "2026-06-13T16:03:45.168595+00:00",
+  "uptime_7d": 88.07,
   "history": [
     {
       "slug": "federal-register",
@@ -1646,6 +1646,22 @@
       "status": "up",
       "status_code": 200,
       "latency_ms": 306,
+      "body_hash": "91ff52fb54ace81a",
+      "schema_sample": [
+        "count",
+        "description",
+        "next_page_url",
+        "results",
+        "total_pages"
+      ],
+      "error": null
+    },
+    {
+      "slug": "federal-register",
+      "timestamp": "2026-06-13T16:03:45.168595+00:00",
+      "status": "up",
+      "status_code": 200,
+      "latency_ms": 361,
       "body_hash": "91ff52fb54ace81a",
       "schema_sample": [
         "count",
