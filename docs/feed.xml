@@ -8,6 +8,30 @@
     <atom:link href="https://stark256-spec.github.io/federal-api-watch/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
+      <title>NASA APOD API: down → up</title>
+      <link>https://stark256-spec.github.io/federal-api-watch/</link>
+      <description>NASA APOD API changed status from down to up</description>
+      <pubDate>2026-06-14T19:56:22.088441+00:00</pubDate>
+      <guid isPermaLink="false">nasa-apod-2026-06-14T19:56:22.088441+00:00</guid>
+    </item>
+    
+    <item>
+      <title>eCFR API: down → up</title>
+      <link>https://stark256-spec.github.io/federal-api-watch/</link>
+      <description>eCFR API changed status from down to up</description>
+      <pubDate>2026-06-14T19:56:22.086100+00:00</pubDate>
+      <guid isPermaLink="false">ecfr-2026-06-14T19:56:22.086100+00:00</guid>
+    </item>
+    
+    <item>
+      <title>Federal Register API: down → up</title>
+      <link>https://stark256-spec.github.io/federal-api-watch/</link>
+      <description>Federal Register API changed status from down to up</description>
+      <pubDate>2026-06-14T19:56:22.085698+00:00</pubDate>
+      <guid isPermaLink="false">federal-register-2026-06-14T19:56:22.085698+00:00</guid>
+    </item>
+    
+    <item>
       <title>NASA APOD API: up → down</title>
       <link>https://stark256-spec.github.io/federal-api-watch/</link>
       <description>NASA APOD API changed status from up to down</description>
@@ -192,14 +216,6 @@
     </item>
     
     <item>
-      <title>NASA APOD API: up → down</title>
-      <link>https://stark256-spec.github.io/federal-api-watch/</link>
-      <description>NASA APOD API changed status from up to down</description>
-      <pubDate>2026-06-13T18:57:53.982623+00:00</pubDate>
-      <guid isPermaLink="false">nasa-apod-2026-06-13T18:57:53.982623+00:00</guid>
-    </item>
-    
-    <item>
       <title>openFDA API: down → up</title>
       <link>https://stark256-spec.github.io/federal-api-watch/</link>
       <description>openFDA API changed status from down to up</description>
@@ -293,22 +309,6 @@
       <description>Federal Register API changed status from up to down</description>
       <pubDate>2026-06-11T19:33:47.773901+00:00</pubDate>
       <guid isPermaLink="false">federal-register-2026-06-11T19:33:47.773901+00:00</guid>
-    </item>
-    
-    <item>
-      <title>eCFR API: down → up</title>
-      <link>https://stark256-spec.github.io/federal-api-watch/</link>
-      <description>eCFR API changed status from down to up</description>
-      <pubDate>2026-06-11T12:59:14.936958+00:00</pubDate>
-      <guid isPermaLink="false">ecfr-2026-06-11T12:59:14.936958+00:00</guid>
-    </item>
-    
-    <item>
-      <title>Federal Register API: down → up</title>
-      <link>https://stark256-spec.github.io/federal-api-watch/</link>
-      <description>Federal Register API changed status from down to up</description>
-      <pubDate>2026-06-11T12:59:14.936629+00:00</pubDate>
-      <guid isPermaLink="false">federal-register-2026-06-11T12:59:14.936629+00:00</guid>
     </item>
     
     <item>
