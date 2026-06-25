@@ -2,8 +2,8 @@
   "slug": "grants-gov-search",
   "name": "Grants.gov Search API",
   "current_status": "up",
-  "current_latency_ms": 506,
-  "last_checked": "2026-06-25T18:04:46.867396+00:00",
+  "current_latency_ms": 516,
+  "last_checked": "2026-06-25T20:20:59.245225+00:00",
   "uptime_7d": 98.64,
   "history": [
     {
@@ -5227,6 +5227,30 @@
       "status_code": 200,
       "latency_ms": 506,
       "body_hash": "15319268b3accb8c",
+      "schema_sample": [
+        "accessKey",
+        "agencies",
+        "dateRangeOptions",
+        "eligibilities",
+        "errorMsgs",
+        "fundingCategories",
+        "fundingInstruments",
+        "hitCount",
+        "oppHits",
+        "oppStatusOptions",
+        "searchParams",
+        "startRecord",
+        "suggestion"
+      ],
+      "error": null
+    },
+    {
+      "slug": "grants-gov-search",
+      "timestamp": "2026-06-25T20:20:59.245225+00:00",
+      "status": "up",
+      "status_code": 200,
+      "latency_ms": 516,
+      "body_hash": "6a114e3fa28308a2",
       "schema_sample": [
         "accessKey",
         "agencies",
