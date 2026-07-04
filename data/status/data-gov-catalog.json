@@ -2,8 +2,8 @@
   "slug": "data-gov-catalog",
   "name": "Data.gov Catalog API",
   "current_status": "down",
-  "current_latency_ms": 195,
-  "last_checked": "2026-07-03T23:41:34.452585+00:00",
+  "current_latency_ms": 259,
+  "last_checked": "2026-07-04T01:15:33.455005+00:00",
   "uptime_7d": 0.0,
   "history": [
     {
@@ -4078,6 +4078,19 @@
       "status": "down",
       "status_code": 404,
       "latency_ms": 195,
+      "body_hash": "8645212e2a6dda61",
+      "schema_sample": [
+        "detail",
+        "message"
+      ],
+      "error": null
+    },
+    {
+      "slug": "data-gov-catalog",
+      "timestamp": "2026-07-04T01:15:33.455005+00:00",
+      "status": "down",
+      "status_code": 404,
+      "latency_ms": 259,
       "body_hash": "8645212e2a6dda61",
       "schema_sample": [
         "detail",
