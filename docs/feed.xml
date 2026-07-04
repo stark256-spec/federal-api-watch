@@ -8,6 +8,22 @@
     <atom:link href="https://stark256-spec.github.io/federal-api-watch/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
+      <title>NASA APOD API: up → down</title>
+      <link>https://stark256-spec.github.io/federal-api-watch/</link>
+      <description>NASA APOD API changed status from up to down</description>
+      <pubDate>2026-07-04T19:17:40.321337+00:00</pubDate>
+      <guid isPermaLink="false">nasa-apod-2026-07-04T19:17:40.321337+00:00</guid>
+    </item>
+    
+    <item>
+      <title>FEC API: degraded → up</title>
+      <link>https://stark256-spec.github.io/federal-api-watch/</link>
+      <description>FEC API changed status from degraded to up</description>
+      <pubDate>2026-07-04T19:17:40.318735+00:00</pubDate>
+      <guid isPermaLink="false">fec-2026-07-04T19:17:40.318735+00:00</guid>
+    </item>
+    
+    <item>
       <title>FEC API: up → degraded</title>
       <link>https://stark256-spec.github.io/federal-api-watch/</link>
       <description>FEC API changed status from up to degraded</description>
@@ -136,14 +152,6 @@
     </item>
     
     <item>
-      <title>NASA APOD API: up → down</title>
-      <link>https://stark256-spec.github.io/federal-api-watch/</link>
-      <description>NASA APOD API changed status from up to down</description>
-      <pubDate>2026-07-02T17:17:31.684654+00:00</pubDate>
-      <guid isPermaLink="false">nasa-apod-2026-07-02T17:17:31.684654+00:00</guid>
-    </item>
-    
-    <item>
       <title>FEC API: degraded → up</title>
       <link>https://stark256-spec.github.io/federal-api-watch/</link>
       <description>FEC API changed status from degraded to up</description>
@@ -173,14 +181,6 @@
       <description>Census Bureau ACS API changed status from up to down</description>
       <pubDate>2026-06-27T15:37:36.488497+00:00</pubDate>
       <guid isPermaLink="false">census-acs-2026-06-27T15:37:36.488497+00:00</guid>
-    </item>
-    
-    <item>
-      <title>FEC API: down → up</title>
-      <link>https://stark256-spec.github.io/federal-api-watch/</link>
-      <description>FEC API changed status from down to up</description>
-      <pubDate>2026-06-27T14:04:36.163014+00:00</pubDate>
-      <guid isPermaLink="false">fec-2026-06-27T14:04:36.163014+00:00</guid>
     </item>
     
     <item>
