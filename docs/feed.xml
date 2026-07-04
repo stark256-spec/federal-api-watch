@@ -8,6 +8,22 @@
     <atom:link href="https://stark256-spec.github.io/federal-api-watch/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
+      <title>NASA APOD API: down → up</title>
+      <link>https://stark256-spec.github.io/federal-api-watch/</link>
+      <description>NASA APOD API changed status from down to up</description>
+      <pubDate>2026-07-04T10:23:38.395413+00:00</pubDate>
+      <guid isPermaLink="false">nasa-apod-2026-07-04T10:23:38.395413+00:00</guid>
+    </item>
+    
+    <item>
+      <title>FEC API: degraded → up</title>
+      <link>https://stark256-spec.github.io/federal-api-watch/</link>
+      <description>FEC API changed status from degraded to up</description>
+      <pubDate>2026-07-04T10:23:38.393881+00:00</pubDate>
+      <guid isPermaLink="false">fec-2026-07-04T10:23:38.393881+00:00</guid>
+    </item>
+    
+    <item>
       <title>NASA APOD API: up → down</title>
       <link>https://stark256-spec.github.io/federal-api-watch/</link>
       <description>NASA APOD API changed status from up to down</description>
@@ -120,14 +136,6 @@
     </item>
     
     <item>
-      <title>NASA APOD API: down → up</title>
-      <link>https://stark256-spec.github.io/federal-api-watch/</link>
-      <description>NASA APOD API changed status from down to up</description>
-      <pubDate>2026-07-02T13:14:52.219356+00:00</pubDate>
-      <guid isPermaLink="false">nasa-apod-2026-07-02T13:14:52.219356+00:00</guid>
-    </item>
-    
-    <item>
       <title>FEC API: degraded → up</title>
       <link>https://stark256-spec.github.io/federal-api-watch/</link>
       <description>FEC API changed status from degraded to up</description>
@@ -173,14 +181,6 @@
       <description>FEC API changed status from up to down</description>
       <pubDate>2026-06-27T12:01:02.382500+00:00</pubDate>
       <guid isPermaLink="false">fec-2026-06-27T12:01:02.382500+00:00</guid>
-    </item>
-    
-    <item>
-      <title>FEC API: down → up</title>
-      <link>https://stark256-spec.github.io/federal-api-watch/</link>
-      <description>FEC API changed status from down to up</description>
-      <pubDate>2026-06-20T22:47:58.561564+00:00</pubDate>
-      <guid isPermaLink="false">fec-2026-06-20T22:47:58.561564+00:00</guid>
     </item>
     
     <item>
