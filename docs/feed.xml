@@ -8,6 +8,22 @@
     <atom:link href="https://stark256-spec.github.io/federal-api-watch/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
+      <title>Census Bureau ACS API: down → up</title>
+      <link>https://stark256-spec.github.io/federal-api-watch/</link>
+      <description>Census Bureau ACS API changed status from down to up</description>
+      <pubDate>2026-07-06T17:13:21.125353+00:00</pubDate>
+      <guid isPermaLink="false">census-acs-2026-07-06T17:13:21.125353+00:00</guid>
+    </item>
+    
+    <item>
+      <title>FEC API: up → degraded</title>
+      <link>https://stark256-spec.github.io/federal-api-watch/</link>
+      <description>FEC API changed status from up to degraded</description>
+      <pubDate>2026-07-06T17:13:21.124695+00:00</pubDate>
+      <guid isPermaLink="false">fec-2026-07-06T17:13:21.124695+00:00</guid>
+    </item>
+    
+    <item>
       <title>Census Bureau ACS API: up → down</title>
       <link>https://stark256-spec.github.io/federal-api-watch/</link>
       <description>Census Bureau ACS API changed status from up to down</description>
@@ -149,14 +165,6 @@
       <description>FEC API changed status from degraded to up</description>
       <pubDate>2026-07-04T01:15:33.461445+00:00</pubDate>
       <guid isPermaLink="false">fec-2026-07-04T01:15:33.461445+00:00</guid>
-    </item>
-    
-    <item>
-      <title>FEC API: up → degraded</title>
-      <link>https://stark256-spec.github.io/federal-api-watch/</link>
-      <description>FEC API changed status from up to degraded</description>
-      <pubDate>2026-07-03T23:41:34.458907+00:00</pubDate>
-      <guid isPermaLink="false">fec-2026-07-03T23:41:34.458907+00:00</guid>
     </item>
     
     <item>
@@ -397,14 +405,6 @@
       <description>openFDA API changed status from up to down</description>
       <pubDate>2026-06-13T00:14:51.639292+00:00</pubDate>
       <guid isPermaLink="false">open-fda-2026-06-13T00:14:51.639292+00:00</guid>
-    </item>
-    
-    <item>
-      <title>openFDA API: schema changed</title>
-      <link>https://stark256-spec.github.io/federal-api-watch/</link>
-      <description>Top-level keys changed from [&#39;error&#39;] to [&#39;meta&#39;, &#39;results&#39;]</description>
-      <pubDate>2026-06-07T21:49:17.861995+00:00</pubDate>
-      <guid isPermaLink="false">open-fda-2026-06-07T21:49:17.861995+00:00</guid>
     </item>
     
   </channel>
