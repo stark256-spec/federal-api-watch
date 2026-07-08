@@ -1,10 +1,10 @@
 {
   "slug": "nasa-apod",
   "name": "NASA APOD API",
-  "current_status": "degraded",
-  "current_latency_ms": 8730,
-  "last_checked": "2026-07-08T18:57:14.861836+00:00",
-  "uptime_7d": 54.3,
+  "current_status": "up",
+  "current_latency_ms": 431,
+  "last_checked": "2026-07-08T20:18:50.580418+00:00",
+  "uptime_7d": 54.42,
   "history": [
     {
       "slug": "nasa-apod",
@@ -5550,6 +5550,23 @@
         "url"
       ],
       "error": null
+    },
+    {
+      "slug": "nasa-apod",
+      "timestamp": "2026-07-08T20:18:50.580418+00:00",
+      "status": "up",
+      "status_code": 200,
+      "latency_ms": 431,
+      "body_hash": "2fa25e068daf5887",
+      "schema_sample": [
+        "date",
+        "explanation",
+        "media_type",
+        "service_version",
+        "title",
+        "url"
+      ],
+      "error": null
     }
   ],
   "changelog": [
@@ -6797,6 +6814,12 @@
       "kind": "status_change",
       "before": "up",
       "after": "degraded"
+    },
+    {
+      "timestamp": "2026-07-08T20:18:50.580418+00:00",
+      "kind": "status_change",
+      "before": "degraded",
+      "after": "up"
     }
   ]
 }
