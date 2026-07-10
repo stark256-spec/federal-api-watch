@@ -8,6 +8,14 @@
     <atom:link href="https://stark256-spec.github.io/federal-api-watch/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
+      <title>FEC API: up → degraded</title>
+      <link>https://stark256-spec.github.io/federal-api-watch/</link>
+      <description>FEC API changed status from up to degraded</description>
+      <pubDate>2026-07-10T08:38:25.876811+00:00</pubDate>
+      <guid isPermaLink="false">fec-2026-07-10T08:38:25.876811+00:00</guid>
+    </item>
+    
+    <item>
       <title>FEC API: degraded → up</title>
       <link>https://stark256-spec.github.io/federal-api-watch/</link>
       <description>FEC API changed status from degraded to up</description>
@@ -133,14 +141,6 @@
       <description>FEC API changed status from degraded to up</description>
       <pubDate>2026-07-07T08:49:34.233576+00:00</pubDate>
       <guid isPermaLink="false">fec-2026-07-07T08:49:34.233576+00:00</guid>
-    </item>
-    
-    <item>
-      <title>FEC API: up → degraded</title>
-      <link>https://stark256-spec.github.io/federal-api-watch/</link>
-      <description>FEC API changed status from up to degraded</description>
-      <pubDate>2026-07-07T05:29:01.224371+00:00</pubDate>
-      <guid isPermaLink="false">fec-2026-07-07T05:29:01.224371+00:00</guid>
     </item>
     
     <item>
