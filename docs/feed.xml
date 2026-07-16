@@ -8,6 +8,22 @@
     <atom:link href="https://stark256-spec.github.io/federal-api-watch/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
+      <title>NASA APOD API: up → down</title>
+      <link>https://stark256-spec.github.io/federal-api-watch/</link>
+      <description>NASA APOD API changed status from up to down</description>
+      <pubDate>2026-07-16T19:57:07.017457+00:00</pubDate>
+      <guid isPermaLink="false">nasa-apod-2026-07-16T19:57:07.017457+00:00</guid>
+    </item>
+    
+    <item>
+      <title>Census Bureau ACS API: up → degraded</title>
+      <link>https://stark256-spec.github.io/federal-api-watch/</link>
+      <description>Census Bureau ACS API changed status from up to degraded</description>
+      <pubDate>2026-07-16T19:57:07.016243+00:00</pubDate>
+      <guid isPermaLink="false">census-acs-2026-07-16T19:57:07.016243+00:00</guid>
+    </item>
+    
+    <item>
       <title>NASA APOD API: down → up</title>
       <link>https://stark256-spec.github.io/federal-api-watch/</link>
       <description>NASA APOD API changed status from down to up</description>
@@ -173,14 +189,6 @@
       <description>Top-level keys changed from [&#39;date&#39;, &#39;explanation&#39;, &#39;media_type&#39;, &#39;service_version&#39;, &#39;title&#39;, &#39;url&#39;] to [&#39;copyright&#39;, &#39;date&#39;, &#39;explanation&#39;, &#39;hdurl&#39;, &#39;media_type&#39;, &#39;service_version&#39;, &#39;title&#39;, &#39;url&#39;]</description>
       <pubDate>2026-07-14T04:15:47.100395+00:00</pubDate>
       <guid isPermaLink="false">nasa-apod-2026-07-14T04:15:47.100395+00:00</guid>
-    </item>
-    
-    <item>
-      <title>NASA APOD API: schema changed</title>
-      <link>https://stark256-spec.github.io/federal-api-watch/</link>
-      <description>Top-level keys changed from [&#39;date&#39;, &#39;explanation&#39;, &#39;hdurl&#39;, &#39;media_type&#39;, &#39;service_version&#39;, &#39;title&#39;, &#39;url&#39;] to [&#39;date&#39;, &#39;explanation&#39;, &#39;media_type&#39;, &#39;service_version&#39;, &#39;title&#39;, &#39;url&#39;]</description>
-      <pubDate>2026-07-13T15:55:19.117306+00:00</pubDate>
-      <guid isPermaLink="false">nasa-apod-2026-07-13T15:55:19.117306+00:00</guid>
     </item>
     
     <item>
@@ -397,14 +405,6 @@
       <description>eCFR API changed status from up to down</description>
       <pubDate>2026-06-13T21:43:03.354130+00:00</pubDate>
       <guid isPermaLink="false">ecfr-2026-06-13T21:43:03.354130+00:00</guid>
-    </item>
-    
-    <item>
-      <title>Federal Register API: up → down</title>
-      <link>https://stark256-spec.github.io/federal-api-watch/</link>
-      <description>Federal Register API changed status from up to down</description>
-      <pubDate>2026-06-13T21:43:03.353787+00:00</pubDate>
-      <guid isPermaLink="false">federal-register-2026-06-13T21:43:03.353787+00:00</guid>
     </item>
     
   </channel>
