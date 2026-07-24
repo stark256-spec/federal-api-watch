@@ -10,6 +10,22 @@
     <item>
       <title>NASA APOD API: schema changed</title>
       <link>https://stark256-spec.github.io/federal-api-watch/</link>
+      <description>Top-level keys changed from [&#39;copyright&#39;, &#39;date&#39;, &#39;explanation&#39;, &#39;hdurl&#39;, &#39;media_type&#39;, &#39;service_version&#39;, &#39;title&#39;, &#39;url&#39;] to [&#39;code&#39;, &#39;msg&#39;, &#39;service_version&#39;]</description>
+      <pubDate>2026-07-24T00:55:52.557354+00:00</pubDate>
+      <guid isPermaLink="false">nasa-apod-2026-07-24T00:55:52.557354+00:00</guid>
+    </item>
+    
+    <item>
+      <title>NASA APOD API: up → down</title>
+      <link>https://stark256-spec.github.io/federal-api-watch/</link>
+      <description>NASA APOD API changed status from up to down</description>
+      <pubDate>2026-07-24T00:55:52.557354+00:00</pubDate>
+      <guid isPermaLink="false">nasa-apod-2026-07-24T00:55:52.557354+00:00</guid>
+    </item>
+    
+    <item>
+      <title>NASA APOD API: schema changed</title>
+      <link>https://stark256-spec.github.io/federal-api-watch/</link>
       <description>Top-level keys changed from [&#39;date&#39;, &#39;explanation&#39;, &#39;hdurl&#39;, &#39;media_type&#39;, &#39;service_version&#39;, &#39;title&#39;, &#39;url&#39;] to [&#39;copyright&#39;, &#39;date&#39;, &#39;explanation&#39;, &#39;hdurl&#39;, &#39;media_type&#39;, &#39;service_version&#39;, &#39;title&#39;, &#39;url&#39;]</description>
       <pubDate>2026-07-23T05:33:42.523556+00:00</pubDate>
       <guid isPermaLink="false">nasa-apod-2026-07-23T05:33:42.523556+00:00</guid>
@@ -69,22 +85,6 @@
       <description>NASA APOD API changed status from down to up</description>
       <pubDate>2026-07-21T04:29:17.134331+00:00</pubDate>
       <guid isPermaLink="false">nasa-apod-2026-07-21T04:29:17.134331+00:00</guid>
-    </item>
-    
-    <item>
-      <title>NASA APOD API: up → down</title>
-      <link>https://stark256-spec.github.io/federal-api-watch/</link>
-      <description>NASA APOD API changed status from up to down</description>
-      <pubDate>2026-07-21T01:06:17.522479+00:00</pubDate>
-      <guid isPermaLink="false">nasa-apod-2026-07-21T01:06:17.522479+00:00</guid>
-    </item>
-    
-    <item>
-      <title>NASA APOD API: down → up</title>
-      <link>https://stark256-spec.github.io/federal-api-watch/</link>
-      <description>NASA APOD API changed status from down to up</description>
-      <pubDate>2026-07-20T16:13:18.528352+00:00</pubDate>
-      <guid isPermaLink="false">nasa-apod-2026-07-20T16:13:18.528352+00:00</guid>
     </item>
     
     <item>
