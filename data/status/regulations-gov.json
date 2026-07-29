@@ -2,8 +2,8 @@
   "slug": "regulations-gov",
   "name": "Regulations.gov API",
   "current_status": "down",
-  "current_latency_ms": 701,
-  "last_checked": "2026-07-29T17:36:04.088894+00:00",
+  "current_latency_ms": 609,
+  "last_checked": "2026-07-29T18:39:24.044632+00:00",
   "uptime_7d": 0.0,
   "history": [
     {
@@ -7862,6 +7862,18 @@
       "status": "down",
       "status_code": 400,
       "latency_ms": 701,
+      "body_hash": "0a09bdcef1f80611",
+      "schema_sample": [
+        "errors"
+      ],
+      "error": null
+    },
+    {
+      "slug": "regulations-gov",
+      "timestamp": "2026-07-29T18:39:24.044632+00:00",
+      "status": "down",
+      "status_code": 400,
+      "latency_ms": 609,
       "body_hash": "0a09bdcef1f80611",
       "schema_sample": [
         "errors"
