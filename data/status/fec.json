@@ -2,24 +2,10 @@
   "slug": "fec",
   "name": "FEC API",
   "current_status": "up",
-  "current_latency_ms": 577,
-  "last_checked": "2026-08-05T09:48:20.874909+00:00",
+  "current_latency_ms": 444,
+  "last_checked": "2026-08-05T11:52:01.743490+00:00",
   "uptime_7d": 95.24,
   "history": [
-    {
-      "slug": "fec",
-      "timestamp": "2026-06-11T12:59:14.938018+00:00",
-      "status": "up",
-      "status_code": 200,
-      "latency_ms": 232,
-      "body_hash": "b2bfc4a794009adb",
-      "schema_sample": [
-        "api_version",
-        "pagination",
-        "results"
-      ],
-      "error": null
-    },
     {
       "slug": "fec",
       "timestamp": "2026-06-11T16:56:53.711233+00:00",
@@ -9373,6 +9359,20 @@
       "status_code": 200,
       "latency_ms": 577,
       "body_hash": "b25acdbdf60c6062",
+      "schema_sample": [
+        "api_version",
+        "pagination",
+        "results"
+      ],
+      "error": null
+    },
+    {
+      "slug": "fec",
+      "timestamp": "2026-08-05T11:52:01.743490+00:00",
+      "status": "up",
+      "status_code": 200,
+      "latency_ms": 444,
+      "body_hash": "9269061aef5863e2",
       "schema_sample": [
         "api_version",
         "pagination",
