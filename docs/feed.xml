@@ -8,6 +8,22 @@
     <atom:link href="https://stark256-spec.github.io/federal-api-watch/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
+      <title>eCFR API: up → down</title>
+      <link>https://stark256-spec.github.io/federal-api-watch/</link>
+      <description>eCFR API changed status from up to down</description>
+      <pubDate>2026-08-07T08:48:37.242427+00:00</pubDate>
+      <guid isPermaLink="false">ecfr-2026-08-07T08:48:37.242427+00:00</guid>
+    </item>
+    
+    <item>
+      <title>Federal Register API: up → down</title>
+      <link>https://stark256-spec.github.io/federal-api-watch/</link>
+      <description>Federal Register API changed status from up to down</description>
+      <pubDate>2026-08-07T08:48:37.241955+00:00</pubDate>
+      <guid isPermaLink="false">federal-register-2026-08-07T08:48:37.241955+00:00</guid>
+    </item>
+    
+    <item>
       <title>NASA APOD API: up → down</title>
       <link>https://stark256-spec.github.io/federal-api-watch/</link>
       <description>NASA APOD API changed status from up to down</description>
@@ -389,22 +405,6 @@
       <description>Federal Register API changed status from down to up</description>
       <pubDate>2026-06-15T23:15:13.565065+00:00</pubDate>
       <guid isPermaLink="false">federal-register-2026-06-15T23:15:13.565065+00:00</guid>
-    </item>
-    
-    <item>
-      <title>eCFR API: up → down</title>
-      <link>https://stark256-spec.github.io/federal-api-watch/</link>
-      <description>eCFR API changed status from up to down</description>
-      <pubDate>2026-06-15T21:24:02.524649+00:00</pubDate>
-      <guid isPermaLink="false">ecfr-2026-06-15T21:24:02.524649+00:00</guid>
-    </item>
-    
-    <item>
-      <title>Federal Register API: up → down</title>
-      <link>https://stark256-spec.github.io/federal-api-watch/</link>
-      <description>Federal Register API changed status from up to down</description>
-      <pubDate>2026-06-15T21:24:02.524258+00:00</pubDate>
-      <guid isPermaLink="false">federal-register-2026-06-15T21:24:02.524258+00:00</guid>
     </item>
     
   </channel>
