@@ -8,6 +8,22 @@
     <atom:link href="https://stark256-spec.github.io/federal-api-watch/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
+      <title>FEC API: schema changed</title>
+      <link>https://stark256-spec.github.io/federal-api-watch/</link>
+      <description>Top-level keys changed from [&#39;api_version&#39;, &#39;pagination&#39;, &#39;results&#39;] to [&#39;error&#39;]</description>
+      <pubDate>2026-08-08T22:54:58.306264+00:00</pubDate>
+      <guid isPermaLink="false">fec-2026-08-08T22:54:58.306264+00:00</guid>
+    </item>
+    
+    <item>
+      <title>FEC API: up → down</title>
+      <link>https://stark256-spec.github.io/federal-api-watch/</link>
+      <description>FEC API changed status from up to down</description>
+      <pubDate>2026-08-08T22:54:58.306264+00:00</pubDate>
+      <guid isPermaLink="false">fec-2026-08-08T22:54:58.306264+00:00</guid>
+    </item>
+    
+    <item>
       <title>NASA APOD API: up → down</title>
       <link>https://stark256-spec.github.io/federal-api-watch/</link>
       <description>NASA APOD API changed status from up to down</description>
@@ -293,22 +309,6 @@
       <description>FEC API changed status from up to degraded</description>
       <pubDate>2026-07-16T01:06:03.082056+00:00</pubDate>
       <guid isPermaLink="false">fec-2026-07-16T01:06:03.082056+00:00</guid>
-    </item>
-    
-    <item>
-      <title>FEC API: degraded → up</title>
-      <link>https://stark256-spec.github.io/federal-api-watch/</link>
-      <description>FEC API changed status from degraded to up</description>
-      <pubDate>2026-07-15T13:45:02.489350+00:00</pubDate>
-      <guid isPermaLink="false">fec-2026-07-15T13:45:02.489350+00:00</guid>
-    </item>
-    
-    <item>
-      <title>FEC API: up → degraded</title>
-      <link>https://stark256-spec.github.io/federal-api-watch/</link>
-      <description>FEC API changed status from up to degraded</description>
-      <pubDate>2026-07-15T11:58:16.494981+00:00</pubDate>
-      <guid isPermaLink="false">fec-2026-07-15T11:58:16.494981+00:00</guid>
     </item>
     
     <item>
