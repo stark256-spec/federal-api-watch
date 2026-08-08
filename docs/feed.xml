@@ -8,6 +8,22 @@
     <atom:link href="https://stark256-spec.github.io/federal-api-watch/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
+      <title>openFDA API: up → degraded</title>
+      <link>https://stark256-spec.github.io/federal-api-watch/</link>
+      <description>openFDA API changed status from up to degraded</description>
+      <pubDate>2026-08-08T20:19:17.247014+00:00</pubDate>
+      <guid isPermaLink="false">open-fda-2026-08-08T20:19:17.247014+00:00</guid>
+    </item>
+    
+    <item>
+      <title>NASA APOD API: down → up</title>
+      <link>https://stark256-spec.github.io/federal-api-watch/</link>
+      <description>NASA APOD API changed status from down to up</description>
+      <pubDate>2026-08-08T20:19:17.245382+00:00</pubDate>
+      <guid isPermaLink="false">nasa-apod-2026-08-08T20:19:17.245382+00:00</guid>
+    </item>
+    
+    <item>
       <title>NASA APOD API: up → down</title>
       <link>https://stark256-spec.github.io/federal-api-watch/</link>
       <description>NASA APOD API changed status from up to down</description>
@@ -93,14 +109,6 @@
       <description>NASA APOD API changed status from down to up</description>
       <pubDate>2026-08-08T10:23:12.065607+00:00</pubDate>
       <guid isPermaLink="false">nasa-apod-2026-08-08T10:23:12.065607+00:00</guid>
-    </item>
-    
-    <item>
-      <title>NASA APOD API: degraded → down</title>
-      <link>https://stark256-spec.github.io/federal-api-watch/</link>
-      <description>NASA APOD API changed status from degraded to down</description>
-      <pubDate>2026-08-08T09:51:59.446316+00:00</pubDate>
-      <guid isPermaLink="false">nasa-apod-2026-08-08T09:51:59.446316+00:00</guid>
     </item>
     
     <item>
@@ -301,14 +309,6 @@
       <description>openFDA API changed status from down to up</description>
       <pubDate>2026-07-14T21:35:44.666480+00:00</pubDate>
       <guid isPermaLink="false">open-fda-2026-07-14T21:35:44.666480+00:00</guid>
-    </item>
-    
-    <item>
-      <title>openFDA API: up → down</title>
-      <link>https://stark256-spec.github.io/federal-api-watch/</link>
-      <description>openFDA API changed status from up to down</description>
-      <pubDate>2026-07-14T20:35:16.341946+00:00</pubDate>
-      <guid isPermaLink="false">open-fda-2026-07-14T20:35:16.341946+00:00</guid>
     </item>
     
     <item>
