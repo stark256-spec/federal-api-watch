@@ -1,21 +1,11 @@
 {
   "slug": "nasa-apod",
   "name": "NASA APOD API",
-  "current_status": "down",
-  "current_latency_ms": null,
-  "last_checked": "2026-08-09T06:27:25.170103+00:00",
-  "uptime_7d": 78.12,
+  "current_status": "up",
+  "current_latency_ms": 309,
+  "last_checked": "2026-08-09T07:31:05.977004+00:00",
+  "uptime_7d": 78.27,
   "history": [
-    {
-      "slug": "nasa-apod",
-      "timestamp": "2026-06-20T11:58:06.842222+00:00",
-      "status": "down",
-      "status_code": null,
-      "latency_ms": null,
-      "body_hash": null,
-      "schema_sample": null,
-      "error": "timeout"
-    },
     {
       "slug": "nasa-apod",
       "timestamp": "2026-06-20T14:05:11.739273+00:00",
@@ -11291,15 +11281,28 @@
       "body_hash": null,
       "schema_sample": null,
       "error": "timeout"
+    },
+    {
+      "slug": "nasa-apod",
+      "timestamp": "2026-08-09T07:31:05.977004+00:00",
+      "status": "up",
+      "status_code": 200,
+      "latency_ms": 309,
+      "body_hash": "e904edbbe9e4436d",
+      "schema_sample": [
+        "copyright",
+        "date",
+        "explanation",
+        "hdurl",
+        "media_type",
+        "service_version",
+        "title",
+        "url"
+      ],
+      "error": null
     }
   ],
   "changelog": [
-    {
-      "timestamp": "2026-06-21T15:46:36.869917+00:00",
-      "kind": "status_change",
-      "before": "up",
-      "after": "down"
-    },
     {
       "timestamp": "2026-06-21T23:03:47.404200+00:00",
       "kind": "status_change",
@@ -12878,6 +12881,12 @@
       "kind": "status_change",
       "before": "up",
       "after": "down"
+    },
+    {
+      "timestamp": "2026-08-09T07:31:05.977004+00:00",
+      "kind": "status_change",
+      "before": "down",
+      "after": "up"
     }
   ]
 }
