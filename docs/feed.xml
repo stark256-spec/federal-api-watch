@@ -8,6 +8,14 @@
     <atom:link href="https://stark256-spec.github.io/federal-api-watch/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
+      <title>NASA APOD API: down → up</title>
+      <link>https://stark256-spec.github.io/federal-api-watch/</link>
+      <description>NASA APOD API changed status from down to up</description>
+      <pubDate>2026-08-10T04:05:32.520935+00:00</pubDate>
+      <guid isPermaLink="false">nasa-apod-2026-08-10T04:05:32.520935+00:00</guid>
+    </item>
+    
+    <item>
       <title>NASA APOD API: degraded → down</title>
       <link>https://stark256-spec.github.io/federal-api-watch/</link>
       <description>NASA APOD API changed status from degraded to down</description>
@@ -93,14 +101,6 @@
       <description>NASA APOD API changed status from up to down</description>
       <pubDate>2026-08-09T09:54:08.962668+00:00</pubDate>
       <guid isPermaLink="false">nasa-apod-2026-08-09T09:54:08.962668+00:00</guid>
-    </item>
-    
-    <item>
-      <title>NASA APOD API: down → up</title>
-      <link>https://stark256-spec.github.io/federal-api-watch/</link>
-      <description>NASA APOD API changed status from down to up</description>
-      <pubDate>2026-08-09T09:09:03.513709+00:00</pubDate>
-      <guid isPermaLink="false">nasa-apod-2026-08-09T09:09:03.513709+00:00</guid>
     </item>
     
     <item>
