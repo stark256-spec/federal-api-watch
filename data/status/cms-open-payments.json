@@ -2,22 +2,10 @@
   "slug": "cms-open-payments",
   "name": "CMS Open Payments API",
   "current_status": "down",
-  "current_latency_ms": 221,
-  "last_checked": "2026-08-13T17:40:26.916054+00:00",
+  "current_latency_ms": 558,
+  "last_checked": "2026-08-13T18:35:37.674287+00:00",
   "uptime_7d": 0.0,
   "history": [
-    {
-      "slug": "cms-open-payments",
-      "timestamp": "2026-06-30T08:45:24.353268+00:00",
-      "status": "down",
-      "status_code": 404,
-      "latency_ms": 373,
-      "body_hash": "c83cf34593c13b51",
-      "schema_sample": [
-        "message"
-      ],
-      "error": null
-    },
     {
       "slug": "cms-open-payments",
       "timestamp": "2026-06-30T11:40:12.468440+00:00",
@@ -8064,6 +8052,18 @@
       "status": "down",
       "status_code": 404,
       "latency_ms": 221,
+      "body_hash": "c83cf34593c13b51",
+      "schema_sample": [
+        "message"
+      ],
+      "error": null
+    },
+    {
+      "slug": "cms-open-payments",
+      "timestamp": "2026-08-13T18:35:37.674287+00:00",
+      "status": "down",
+      "status_code": 404,
+      "latency_ms": 558,
       "body_hash": "c83cf34593c13b51",
       "schema_sample": [
         "message"
