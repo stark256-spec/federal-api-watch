@@ -2,23 +2,10 @@
   "slug": "open-fda",
   "name": "openFDA API",
   "current_status": "up",
-  "current_latency_ms": 423,
-  "last_checked": "2026-08-16T06:25:39.792679+00:00",
+  "current_latency_ms": 527,
+  "last_checked": "2026-08-16T07:07:36.623071+00:00",
   "uptime_7d": 98.81,
   "history": [
-    {
-      "slug": "open-fda",
-      "timestamp": "2026-07-08T11:48:45.530604+00:00",
-      "status": "up",
-      "status_code": 200,
-      "latency_ms": 398,
-      "body_hash": "fbbd53932c72ea0a",
-      "schema_sample": [
-        "meta",
-        "results"
-      ],
-      "error": null
-    },
     {
       "slug": "open-fda",
       "timestamp": "2026-07-08T13:46:31.708301+00:00",
@@ -8723,6 +8710,19 @@
       "status": "up",
       "status_code": 200,
       "latency_ms": 423,
+      "body_hash": "dd0a7a186d851628",
+      "schema_sample": [
+        "meta",
+        "results"
+      ],
+      "error": null
+    },
+    {
+      "slug": "open-fda",
+      "timestamp": "2026-08-16T07:07:36.623071+00:00",
+      "status": "up",
+      "status_code": 200,
+      "latency_ms": 527,
       "body_hash": "dd0a7a186d851628",
       "schema_sample": [
         "meta",
