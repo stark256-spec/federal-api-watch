@@ -2,20 +2,10 @@
   "slug": "usaspending",
   "name": "USASpending API",
   "current_status": "down",
-  "current_latency_ms": 405,
-  "last_checked": "2026-08-17T14:54:41.754822+00:00",
+  "current_latency_ms": 351,
+  "last_checked": "2026-08-17T15:18:12.221959+00:00",
   "uptime_7d": 0.0,
   "history": [
-    {
-      "slug": "usaspending",
-      "timestamp": "2026-07-12T22:29:39.777224+00:00",
-      "status": "down",
-      "status_code": 404,
-      "latency_ms": 372,
-      "body_hash": "5547992afdadb597",
-      "schema_sample": null,
-      "error": null
-    },
     {
       "slug": "usaspending",
       "timestamp": "2026-07-12T23:28:06.842775+00:00",
@@ -6722,6 +6712,16 @@
       "status": "down",
       "status_code": 404,
       "latency_ms": 405,
+      "body_hash": "5547992afdadb597",
+      "schema_sample": null,
+      "error": null
+    },
+    {
+      "slug": "usaspending",
+      "timestamp": "2026-08-17T15:18:12.221959+00:00",
+      "status": "down",
+      "status_code": 404,
+      "latency_ms": 351,
       "body_hash": "5547992afdadb597",
       "schema_sample": null,
       "error": null
