@@ -2,20 +2,10 @@
   "slug": "sam-gov-entity",
   "name": "SAM.gov Entity API",
   "current_status": "down",
-  "current_latency_ms": 256,
-  "last_checked": "2026-08-17T11:47:41.685277+00:00",
+  "current_latency_ms": 205,
+  "last_checked": "2026-08-17T12:27:17.849711+00:00",
   "uptime_7d": 0.0,
   "history": [
-    {
-      "slug": "sam-gov-entity",
-      "timestamp": "2026-07-12T17:31:20.404930+00:00",
-      "status": "down",
-      "status_code": 404,
-      "latency_ms": 340,
-      "body_hash": "e3b0c44298fc1c14",
-      "schema_sample": null,
-      "error": null
-    },
     {
       "slug": "sam-gov-entity",
       "timestamp": "2026-07-12T18:35:17.609676+00:00",
@@ -6722,6 +6712,16 @@
       "status": "down",
       "status_code": 404,
       "latency_ms": 256,
+      "body_hash": "e3b0c44298fc1c14",
+      "schema_sample": null,
+      "error": null
+    },
+    {
+      "slug": "sam-gov-entity",
+      "timestamp": "2026-08-17T12:27:17.849711+00:00",
+      "status": "down",
+      "status_code": 404,
+      "latency_ms": 205,
       "body_hash": "e3b0c44298fc1c14",
       "schema_sample": null,
       "error": null
