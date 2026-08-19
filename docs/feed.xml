@@ -8,6 +8,14 @@
     <atom:link href="https://stark256-spec.github.io/federal-api-watch/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
+      <title>Federal Register API: down → up</title>
+      <link>https://stark256-spec.github.io/federal-api-watch/</link>
+      <description>Federal Register API changed status from down to up</description>
+      <pubDate>2026-08-19T00:56:46.442367+00:00</pubDate>
+      <guid isPermaLink="false">federal-register-2026-08-19T00:56:46.442367+00:00</guid>
+    </item>
+    
+    <item>
       <title>Federal Register API: up → down</title>
       <link>https://stark256-spec.github.io/federal-api-watch/</link>
       <description>Federal Register API changed status from up to down</description>
@@ -189,14 +197,6 @@
       <description>openFDA API changed status from up to degraded</description>
       <pubDate>2026-08-17T10:15:03.179470+00:00</pubDate>
       <guid isPermaLink="false">open-fda-2026-08-17T10:15:03.179470+00:00</guid>
-    </item>
-    
-    <item>
-      <title>Federal Register API: down → up</title>
-      <link>https://stark256-spec.github.io/federal-api-watch/</link>
-      <description>Federal Register API changed status from down to up</description>
-      <pubDate>2026-08-17T07:13:30.778720+00:00</pubDate>
-      <guid isPermaLink="false">federal-register-2026-08-17T07:13:30.778720+00:00</guid>
     </item>
     
     <item>
