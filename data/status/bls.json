@@ -2,20 +2,10 @@
   "slug": "bls",
   "name": "BLS Public Data API",
   "current_status": "down",
-  "current_latency_ms": 249,
-  "last_checked": "2026-08-20T14:19:02.957646+00:00",
+  "current_latency_ms": 335,
+  "last_checked": "2026-08-20T15:02:36.592329+00:00",
   "uptime_7d": 0.0,
   "history": [
-    {
-      "slug": "bls",
-      "timestamp": "2026-07-20T23:38:05.146701+00:00",
-      "status": "down",
-      "status_code": null,
-      "latency_ms": null,
-      "body_hash": null,
-      "schema_sample": null,
-      "error": "timeout"
-    },
     {
       "slug": "bls",
       "timestamp": "2026-07-21T01:06:17.521665+00:00",
@@ -6722,6 +6712,16 @@
       "status": "down",
       "status_code": 405,
       "latency_ms": 249,
+      "body_hash": "070eedeaf57c259f",
+      "schema_sample": null,
+      "error": null
+    },
+    {
+      "slug": "bls",
+      "timestamp": "2026-08-20T15:02:36.592329+00:00",
+      "status": "down",
+      "status_code": 405,
+      "latency_ms": 335,
       "body_hash": "070eedeaf57c259f",
       "schema_sample": null,
       "error": null
