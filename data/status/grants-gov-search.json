@@ -2,34 +2,10 @@
   "slug": "grants-gov-search",
   "name": "Grants.gov Search API",
   "current_status": "up",
-  "current_latency_ms": 328,
-  "last_checked": "2026-08-22T21:55:47.801825+00:00",
+  "current_latency_ms": 357,
+  "last_checked": "2026-08-22T22:15:11.898019+00:00",
   "uptime_7d": 100.0,
   "history": [
-    {
-      "slug": "grants-gov-search",
-      "timestamp": "2026-07-27T23:43:03.517717+00:00",
-      "status": "up",
-      "status_code": 200,
-      "latency_ms": 176,
-      "body_hash": "01d3d086da1be9c8",
-      "schema_sample": [
-        "accessKey",
-        "agencies",
-        "dateRangeOptions",
-        "eligibilities",
-        "errorMsgs",
-        "fundingCategories",
-        "fundingInstruments",
-        "hitCount",
-        "oppHits",
-        "oppStatusOptions",
-        "searchParams",
-        "startRecord",
-        "suggestion"
-      ],
-      "error": null
-    },
     {
       "slug": "grants-gov-search",
       "timestamp": "2026-07-28T01:04:05.630349+00:00",
@@ -16116,6 +16092,30 @@
       "status": "up",
       "status_code": 200,
       "latency_ms": 328,
+      "body_hash": "e095a86ec63f7d70",
+      "schema_sample": [
+        "accessKey",
+        "agencies",
+        "dateRangeOptions",
+        "eligibilities",
+        "errorMsgs",
+        "fundingCategories",
+        "fundingInstruments",
+        "hitCount",
+        "oppHits",
+        "oppStatusOptions",
+        "searchParams",
+        "startRecord",
+        "suggestion"
+      ],
+      "error": null
+    },
+    {
+      "slug": "grants-gov-search",
+      "timestamp": "2026-08-22T22:15:11.898019+00:00",
+      "status": "up",
+      "status_code": 200,
+      "latency_ms": 357,
       "body_hash": "e095a86ec63f7d70",
       "schema_sample": [
         "accessKey",
