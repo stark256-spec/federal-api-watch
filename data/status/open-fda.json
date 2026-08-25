@@ -1,24 +1,11 @@
 {
   "slug": "open-fda",
   "name": "openFDA API",
-  "current_status": "down",
-  "current_latency_ms": 3450,
-  "last_checked": "2026-08-25T09:33:10.968709+00:00",
+  "current_status": "up",
+  "current_latency_ms": 675,
+  "last_checked": "2026-08-25T10:04:40.501198+00:00",
   "uptime_7d": 99.11,
   "history": [
-    {
-      "slug": "open-fda",
-      "timestamp": "2026-08-04T16:49:59.944531+00:00",
-      "status": "up",
-      "status_code": 200,
-      "latency_ms": 449,
-      "body_hash": "ebac0af2de09c3b7",
-      "schema_sample": [
-        "meta",
-        "results"
-      ],
-      "error": null
-    },
     {
       "slug": "open-fda",
       "timestamp": "2026-08-04T18:23:14.467149+00:00",
@@ -8740,6 +8727,19 @@
         "error"
       ],
       "error": null
+    },
+    {
+      "slug": "open-fda",
+      "timestamp": "2026-08-25T10:04:40.501198+00:00",
+      "status": "up",
+      "status_code": 200,
+      "latency_ms": 675,
+      "body_hash": "225e4d2c064ab082",
+      "schema_sample": [
+        "meta",
+        "results"
+      ],
+      "error": null
     }
   ],
   "changelog": [
@@ -8925,6 +8925,23 @@
       "kind": "status_change",
       "before": "up",
       "after": "down"
+    },
+    {
+      "timestamp": "2026-08-25T10:04:40.501198+00:00",
+      "kind": "schema_change",
+      "before": [
+        "error"
+      ],
+      "after": [
+        "meta",
+        "results"
+      ]
+    },
+    {
+      "timestamp": "2026-08-25T10:04:40.501198+00:00",
+      "kind": "status_change",
+      "before": "down",
+      "after": "up"
     }
   ]
 }
