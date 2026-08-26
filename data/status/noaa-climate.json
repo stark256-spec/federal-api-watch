@@ -2,23 +2,10 @@
   "slug": "noaa-climate",
   "name": "NOAA Climate Data Online API",
   "current_status": "down",
-  "current_latency_ms": 212,
-  "last_checked": "2026-08-26T08:22:14.383190+00:00",
+  "current_latency_ms": 339,
+  "last_checked": "2026-08-26T09:08:42.199906+00:00",
   "uptime_7d": 0.0,
   "history": [
-    {
-      "slug": "noaa-climate",
-      "timestamp": "2026-08-07T11:31:25.595263+00:00",
-      "status": "down",
-      "status_code": 400,
-      "latency_ms": 329,
-      "body_hash": "ceeafdf9a2fc31b8",
-      "schema_sample": [
-        "message",
-        "status"
-      ],
-      "error": null
-    },
     {
       "slug": "noaa-climate",
       "timestamp": "2026-08-07T12:26:28.265896+00:00",
@@ -8732,6 +8719,19 @@
       "status": "down",
       "status_code": 400,
       "latency_ms": 212,
+      "body_hash": "ceeafdf9a2fc31b8",
+      "schema_sample": [
+        "message",
+        "status"
+      ],
+      "error": null
+    },
+    {
+      "slug": "noaa-climate",
+      "timestamp": "2026-08-26T09:08:42.199906+00:00",
+      "status": "down",
+      "status_code": 400,
+      "latency_ms": 339,
       "body_hash": "ceeafdf9a2fc31b8",
       "schema_sample": [
         "message",
