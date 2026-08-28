@@ -1,21 +1,11 @@
 {
   "slug": "nasa-apod",
   "name": "NASA APOD API",
-  "current_status": "up",
-  "current_latency_ms": 285,
-  "last_checked": "2026-08-27T17:46:14.081536+00:00",
+  "current_status": "down",
+  "current_latency_ms": 408,
+  "last_checked": "2026-08-28T01:57:57.552703+00:00",
   "uptime_7d": 83.33,
   "history": [
-    {
-      "slug": "nasa-apod",
-      "timestamp": "2026-08-08T01:02:17.319790+00:00",
-      "status": "down",
-      "status_code": null,
-      "latency_ms": null,
-      "body_hash": null,
-      "schema_sample": null,
-      "error": "timeout"
-    },
     {
       "slug": "nasa-apod",
       "timestamp": "2026-08-08T02:59:28.520624+00:00",
@@ -11671,21 +11661,23 @@
         "url"
       ],
       "error": null
+    },
+    {
+      "slug": "nasa-apod",
+      "timestamp": "2026-08-28T01:57:57.552703+00:00",
+      "status": "down",
+      "status_code": 500,
+      "latency_ms": 408,
+      "body_hash": "b884c1c62ecfcd16",
+      "schema_sample": [
+        "code",
+        "msg",
+        "service_version"
+      ],
+      "error": null
     }
   ],
   "changelog": [
-    {
-      "timestamp": "2026-07-24T12:43:15.577225+00:00",
-      "kind": "status_change",
-      "before": "down",
-      "after": "up"
-    },
-    {
-      "timestamp": "2026-07-25T01:08:55.736319+00:00",
-      "kind": "status_change",
-      "before": "up",
-      "after": "down"
-    },
     {
       "timestamp": "2026-07-25T04:26:06.995544+00:00",
       "kind": "status_change",
@@ -13179,6 +13171,31 @@
       "kind": "status_change",
       "before": "degraded",
       "after": "up"
+    },
+    {
+      "timestamp": "2026-08-28T01:57:57.552703+00:00",
+      "kind": "schema_change",
+      "before": [
+        "copyright",
+        "date",
+        "explanation",
+        "hdurl",
+        "media_type",
+        "service_version",
+        "title",
+        "url"
+      ],
+      "after": [
+        "code",
+        "msg",
+        "service_version"
+      ]
+    },
+    {
+      "timestamp": "2026-08-28T01:57:57.552703+00:00",
+      "kind": "status_change",
+      "before": "up",
+      "after": "down"
     }
   ]
 }
