@@ -2,29 +2,10 @@
   "slug": "nasa-apod",
   "name": "NASA APOD API",
   "current_status": "up",
-  "current_latency_ms": 593,
-  "last_checked": "2026-08-31T00:41:49.701240+00:00",
+  "current_latency_ms": 538,
+  "last_checked": "2026-08-31T06:12:21.862662+00:00",
   "uptime_7d": 84.52,
   "history": [
-    {
-      "slug": "nasa-apod",
-      "timestamp": "2026-08-08T14:16:32.860721+00:00",
-      "status": "up",
-      "status_code": 200,
-      "latency_ms": 969,
-      "body_hash": "cfb1d8f4f5c87f89",
-      "schema_sample": [
-        "copyright",
-        "date",
-        "explanation",
-        "hdurl",
-        "media_type",
-        "service_version",
-        "title",
-        "url"
-      ],
-      "error": null
-    },
     {
       "slug": "nasa-apod",
       "timestamp": "2026-08-08T14:56:01.448585+00:00",
@@ -11730,31 +11711,26 @@
         "url"
       ],
       "error": null
-    }
-  ],
-  "changelog": [
+    },
     {
-      "timestamp": "2026-07-26T04:42:43.343248+00:00",
-      "kind": "schema_change",
-      "before": [
-        "copyright",
+      "slug": "nasa-apod",
+      "timestamp": "2026-08-31T06:12:21.862662+00:00",
+      "status": "up",
+      "status_code": 200,
+      "latency_ms": 538,
+      "body_hash": "9c1a12b355e91399",
+      "schema_sample": [
         "date",
         "explanation",
-        "hdurl",
         "media_type",
         "service_version",
         "title",
         "url"
       ],
-      "after": [
-        "date",
-        "explanation",
-        "media_type",
-        "service_version",
-        "title",
-        "url"
-      ]
-    },
+      "error": null
+    }
+  ],
+  "changelog": [
     {
       "timestamp": "2026-07-26T18:12:13.265111+00:00",
       "kind": "status_change",
@@ -13276,6 +13252,27 @@
         "date",
         "explanation",
         "hdurl",
+        "media_type",
+        "service_version",
+        "title",
+        "url"
+      ]
+    },
+    {
+      "timestamp": "2026-08-31T06:12:21.862662+00:00",
+      "kind": "schema_change",
+      "before": [
+        "date",
+        "explanation",
+        "hdurl",
+        "media_type",
+        "service_version",
+        "title",
+        "url"
+      ],
+      "after": [
+        "date",
+        "explanation",
         "media_type",
         "service_version",
         "title",
