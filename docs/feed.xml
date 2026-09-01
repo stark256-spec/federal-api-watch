@@ -10,6 +10,14 @@
     <item>
       <title>NASA APOD API: schema changed</title>
       <link>https://stark256-spec.github.io/federal-api-watch/</link>
+      <description>Top-level keys changed from [&#39;date&#39;, &#39;explanation&#39;, &#39;media_type&#39;, &#39;service_version&#39;, &#39;title&#39;, &#39;url&#39;] to [&#39;date&#39;, &#39;explanation&#39;, &#39;hdurl&#39;, &#39;media_type&#39;, &#39;service_version&#39;, &#39;title&#39;, &#39;url&#39;]</description>
+      <pubDate>2026-09-01T07:46:56.449788+00:00</pubDate>
+      <guid isPermaLink="false">nasa-apod-2026-09-01T07:46:56.449788+00:00</guid>
+    </item>
+    
+    <item>
+      <title>NASA APOD API: schema changed</title>
+      <link>https://stark256-spec.github.io/federal-api-watch/</link>
       <description>Top-level keys changed from [&#39;date&#39;, &#39;explanation&#39;, &#39;hdurl&#39;, &#39;media_type&#39;, &#39;service_version&#39;, &#39;title&#39;, &#39;url&#39;] to [&#39;date&#39;, &#39;explanation&#39;, &#39;media_type&#39;, &#39;service_version&#39;, &#39;title&#39;, &#39;url&#39;]</description>
       <pubDate>2026-08-31T06:12:21.862662+00:00</pubDate>
       <guid isPermaLink="false">nasa-apod-2026-08-31T06:12:21.862662+00:00</guid>
@@ -93,14 +101,6 @@
       <description>FEC API changed status from up to down</description>
       <pubDate>2026-08-26T20:25:07.618107+00:00</pubDate>
       <guid isPermaLink="false">fec-2026-08-26T20:25:07.618107+00:00</guid>
-    </item>
-    
-    <item>
-      <title>NASA APOD API: degraded → up</title>
-      <link>https://stark256-spec.github.io/federal-api-watch/</link>
-      <description>NASA APOD API changed status from degraded to up</description>
-      <pubDate>2026-08-26T11:33:57.606612+00:00</pubDate>
-      <guid isPermaLink="false">nasa-apod-2026-08-26T11:33:57.606612+00:00</guid>
     </item>
     
     <item>
