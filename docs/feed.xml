@@ -8,6 +8,14 @@
     <atom:link href="https://stark256-spec.github.io/federal-api-watch/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
+      <title>NASA APOD API: up → down</title>
+      <link>https://stark256-spec.github.io/federal-api-watch/</link>
+      <description>NASA APOD API changed status from up to down</description>
+      <pubDate>2026-09-04T16:51:29.320239+00:00</pubDate>
+      <guid isPermaLink="false">nasa-apod-2026-09-04T16:51:29.320239+00:00</guid>
+    </item>
+    
+    <item>
       <title>Census Bureau ACS API: degraded → up</title>
       <link>https://stark256-spec.github.io/federal-api-watch/</link>
       <description>Census Bureau ACS API changed status from degraded to up</description>
@@ -173,14 +181,6 @@
       <description>Top-level keys changed from [&#39;date&#39;, &#39;explanation&#39;, &#39;media_type&#39;, &#39;service_version&#39;, &#39;title&#39;, &#39;url&#39;] to [&#39;date&#39;, &#39;explanation&#39;, &#39;hdurl&#39;, &#39;media_type&#39;, &#39;service_version&#39;, &#39;title&#39;, &#39;url&#39;]</description>
       <pubDate>2026-09-01T07:46:56.449788+00:00</pubDate>
       <guid isPermaLink="false">nasa-apod-2026-09-01T07:46:56.449788+00:00</guid>
-    </item>
-    
-    <item>
-      <title>NASA APOD API: schema changed</title>
-      <link>https://stark256-spec.github.io/federal-api-watch/</link>
-      <description>Top-level keys changed from [&#39;date&#39;, &#39;explanation&#39;, &#39;hdurl&#39;, &#39;media_type&#39;, &#39;service_version&#39;, &#39;title&#39;, &#39;url&#39;] to [&#39;date&#39;, &#39;explanation&#39;, &#39;media_type&#39;, &#39;service_version&#39;, &#39;title&#39;, &#39;url&#39;]</description>
-      <pubDate>2026-08-31T06:12:21.862662+00:00</pubDate>
-      <guid isPermaLink="false">nasa-apod-2026-08-31T06:12:21.862662+00:00</guid>
     </item>
     
     <item>
