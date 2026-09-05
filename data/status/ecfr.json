@@ -2,23 +2,10 @@
   "slug": "ecfr",
   "name": "eCFR API",
   "current_status": "up",
-  "current_latency_ms": 211,
-  "last_checked": "2026-09-05T21:33:44.959445+00:00",
+  "current_latency_ms": 47,
+  "last_checked": "2026-09-05T23:17:30.441642+00:00",
   "uptime_7d": 100.0,
   "history": [
-    {
-      "slug": "ecfr",
-      "timestamp": "2026-08-09T17:56:27.368048+00:00",
-      "status": "up",
-      "status_code": 200,
-      "latency_ms": 199,
-      "body_hash": "227762d567a0701c",
-      "schema_sample": [
-        "meta",
-        "titles"
-      ],
-      "error": null
-    },
     {
       "slug": "ecfr",
       "timestamp": "2026-08-09T18:33:28.529499+00:00",
@@ -8735,6 +8722,19 @@
       "status": "up",
       "status_code": 200,
       "latency_ms": 211,
+      "body_hash": "77279f0b1e3dbcde",
+      "schema_sample": [
+        "meta",
+        "titles"
+      ],
+      "error": null
+    },
+    {
+      "slug": "ecfr",
+      "timestamp": "2026-09-05T23:17:30.441642+00:00",
+      "status": "up",
+      "status_code": 200,
+      "latency_ms": 47,
       "body_hash": "77279f0b1e3dbcde",
       "schema_sample": [
         "meta",
