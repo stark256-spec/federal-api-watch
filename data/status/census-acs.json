@@ -2,20 +2,10 @@
   "slug": "census-acs",
   "name": "Census Bureau ACS API",
   "current_status": "up",
-  "current_latency_ms": 1110,
-  "last_checked": "2026-09-07T15:16:26.479113+00:00",
+  "current_latency_ms": 181,
+  "last_checked": "2026-09-07T19:18:33.584408+00:00",
   "uptime_7d": 98.66,
   "history": [
-    {
-      "slug": "census-acs",
-      "timestamp": "2026-08-10T05:42:11.065617+00:00",
-      "status": "up",
-      "status_code": 200,
-      "latency_ms": 89,
-      "body_hash": "c2f4687e09b80676",
-      "schema_sample": null,
-      "error": null
-    },
     {
       "slug": "census-acs",
       "timestamp": "2026-08-10T06:56:00.099656+00:00",
@@ -6722,6 +6712,16 @@
       "status": "up",
       "status_code": 200,
       "latency_ms": 1110,
+      "body_hash": "c2f4687e09b80676",
+      "schema_sample": null,
+      "error": null
+    },
+    {
+      "slug": "census-acs",
+      "timestamp": "2026-09-07T19:18:33.584408+00:00",
+      "status": "up",
+      "status_code": 200,
+      "latency_ms": 181,
       "body_hash": "c2f4687e09b80676",
       "schema_sample": null,
       "error": null
