@@ -2,20 +2,10 @@
   "slug": "nasa-apod",
   "name": "NASA APOD API",
   "current_status": "up",
-  "current_latency_ms": 948,
-  "last_checked": "2026-09-08T00:22:35.334062+00:00",
-  "uptime_7d": 87.95,
+  "current_latency_ms": 506,
+  "last_checked": "2026-09-08T04:56:46.962471+00:00",
+  "uptime_7d": 88.1,
   "history": [
-    {
-      "slug": "nasa-apod",
-      "timestamp": "2026-08-10T09:55:00.130063+00:00",
-      "status": "down",
-      "status_code": null,
-      "latency_ms": null,
-      "body_hash": null,
-      "schema_sample": null,
-      "error": "timeout"
-    },
     {
       "slug": "nasa-apod",
       "timestamp": "2026-08-10T11:00:18.988042+00:00",
@@ -11901,14 +11891,15 @@
         "url"
       ],
       "error": null
-    }
-  ],
-  "changelog": [
+    },
     {
-      "timestamp": "2026-07-31T01:01:24.610504+00:00",
-      "kind": "schema_change",
-      "before": [
-        "copyright",
+      "slug": "nasa-apod",
+      "timestamp": "2026-09-08T04:56:46.962471+00:00",
+      "status": "up",
+      "status_code": 200,
+      "latency_ms": 506,
+      "body_hash": "4e1c188fea4ca9af",
+      "schema_sample": [
         "date",
         "explanation",
         "hdurl",
@@ -11917,12 +11908,10 @@
         "title",
         "url"
       ],
-      "after": [
-        "code",
-        "msg",
-        "service_version"
-      ]
-    },
+      "error": null
+    }
+  ],
+  "changelog": [
     {
       "timestamp": "2026-07-31T01:01:24.610504+00:00",
       "kind": "status_change",
@@ -13460,6 +13449,29 @@
       "kind": "status_change",
       "before": "down",
       "after": "up"
+    },
+    {
+      "timestamp": "2026-09-08T04:56:46.962471+00:00",
+      "kind": "schema_change",
+      "before": [
+        "copyright",
+        "date",
+        "explanation",
+        "hdurl",
+        "media_type",
+        "service_version",
+        "title",
+        "url"
+      ],
+      "after": [
+        "date",
+        "explanation",
+        "hdurl",
+        "media_type",
+        "service_version",
+        "title",
+        "url"
+      ]
     }
   ]
 }
