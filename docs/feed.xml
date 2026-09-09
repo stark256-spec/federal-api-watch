@@ -8,6 +8,14 @@
     <atom:link href="https://stark256-spec.github.io/federal-api-watch/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
+      <title>NASA APOD API: schema changed</title>
+      <link>https://stark256-spec.github.io/federal-api-watch/</link>
+      <description>Top-level keys changed from [&#39;date&#39;, &#39;explanation&#39;, &#39;hdurl&#39;, &#39;media_type&#39;, &#39;service_version&#39;, &#39;title&#39;, &#39;url&#39;] to [&#39;date&#39;, &#39;explanation&#39;, &#39;media_type&#39;, &#39;service_version&#39;, &#39;title&#39;, &#39;url&#39;]</description>
+      <pubDate>2026-09-09T05:38:46.391589+00:00</pubDate>
+      <guid isPermaLink="false">nasa-apod-2026-09-09T05:38:46.391589+00:00</guid>
+    </item>
+    
+    <item>
       <title>FEC API: schema changed</title>
       <link>https://stark256-spec.github.io/federal-api-watch/</link>
       <description>Top-level keys changed from [&#39;error&#39;] to [&#39;api_version&#39;, &#39;pagination&#39;, &#39;results&#39;]</description>
@@ -117,14 +125,6 @@
       <description>NASA APOD API changed status from down to degraded</description>
       <pubDate>2026-09-04T04:27:27.064544+00:00</pubDate>
       <guid isPermaLink="false">nasa-apod-2026-09-04T04:27:27.064544+00:00</guid>
-    </item>
-    
-    <item>
-      <title>NASA APOD API: schema changed</title>
-      <link>https://stark256-spec.github.io/federal-api-watch/</link>
-      <description>Top-level keys changed from [&#39;copyright&#39;, &#39;date&#39;, &#39;explanation&#39;, &#39;hdurl&#39;, &#39;media_type&#39;, &#39;service_version&#39;, &#39;title&#39;, &#39;url&#39;] to [&#39;code&#39;, &#39;msg&#39;, &#39;service_version&#39;]</description>
-      <pubDate>2026-09-04T00:03:37.363499+00:00</pubDate>
-      <guid isPermaLink="false">nasa-apod-2026-09-04T00:03:37.363499+00:00</guid>
     </item>
     
     <item>
