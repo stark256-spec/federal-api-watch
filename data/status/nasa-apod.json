@@ -2,20 +2,10 @@
   "slug": "nasa-apod",
   "name": "NASA APOD API",
   "current_status": "up",
-  "current_latency_ms": 798,
-  "last_checked": "2026-09-13T00:05:52.586389+00:00",
-  "uptime_7d": 90.33,
+  "current_latency_ms": 213,
+  "last_checked": "2026-09-13T04:42:36.574225+00:00",
+  "uptime_7d": 90.48,
   "history": [
-    {
-      "slug": "nasa-apod",
-      "timestamp": "2026-08-11T22:04:01.472095+00:00",
-      "status": "down",
-      "status_code": null,
-      "latency_ms": null,
-      "body_hash": null,
-      "schema_sample": null,
-      "error": "timeout"
-    },
     {
       "slug": "nasa-apod",
       "timestamp": "2026-08-11T23:00:17.632374+00:00",
@@ -12028,32 +12018,27 @@
         "url"
       ],
       "error": null
-    }
-  ],
-  "changelog": [
+    },
     {
-      "timestamp": "2026-08-05T04:26:52.957290+00:00",
-      "kind": "schema_change",
-      "before": [
+      "slug": "nasa-apod",
+      "timestamp": "2026-09-13T04:42:36.574225+00:00",
+      "status": "up",
+      "status_code": 200,
+      "latency_ms": 213,
+      "body_hash": "ed23dd2da676507d",
+      "schema_sample": [
+        "copyright",
         "date",
         "explanation",
-        "hdurl",
         "media_type",
         "service_version",
         "title",
         "url"
       ],
-      "after": [
-        "copyright",
-        "date",
-        "explanation",
-        "hdurl",
-        "media_type",
-        "service_version",
-        "title",
-        "url"
-      ]
-    },
+      "error": null
+    }
+  ],
+  "changelog": [
     {
       "timestamp": "2026-08-06T01:51:29.846179+00:00",
       "kind": "schema_change",
@@ -13617,6 +13602,28 @@
         "date",
         "explanation",
         "hdurl",
+        "media_type",
+        "service_version",
+        "title",
+        "url"
+      ]
+    },
+    {
+      "timestamp": "2026-09-13T04:42:36.574225+00:00",
+      "kind": "schema_change",
+      "before": [
+        "date",
+        "explanation",
+        "hdurl",
+        "media_type",
+        "service_version",
+        "title",
+        "url"
+      ],
+      "after": [
+        "copyright",
+        "date",
+        "explanation",
         "media_type",
         "service_version",
         "title",
