@@ -2,20 +2,10 @@
   "slug": "nasa-apod",
   "name": "NASA APOD API",
   "current_status": "up",
-  "current_latency_ms": 771,
-  "last_checked": "2026-09-14T01:27:54.195993+00:00",
-  "uptime_7d": 91.07,
+  "current_latency_ms": 764,
+  "last_checked": "2026-09-14T06:45:49.710193+00:00",
+  "uptime_7d": 91.22,
   "history": [
-    {
-      "slug": "nasa-apod",
-      "timestamp": "2026-08-12T10:41:13.362723+00:00",
-      "status": "down",
-      "status_code": null,
-      "latency_ms": null,
-      "body_hash": null,
-      "schema_sample": null,
-      "error": "timeout"
-    },
     {
       "slug": "nasa-apod",
       "timestamp": "2026-08-12T11:28:39.556264+00:00",
@@ -12056,14 +12046,15 @@
         "url"
       ],
       "error": null
-    }
-  ],
-  "changelog": [
+    },
     {
-      "timestamp": "2026-08-06T01:51:29.846179+00:00",
-      "kind": "schema_change",
-      "before": [
-        "copyright",
+      "slug": "nasa-apod",
+      "timestamp": "2026-09-14T06:45:49.710193+00:00",
+      "status": "up",
+      "status_code": 200,
+      "latency_ms": 764,
+      "body_hash": "623019652216fb4e",
+      "schema_sample": [
         "date",
         "explanation",
         "hdurl",
@@ -12072,10 +12063,10 @@
         "title",
         "url"
       ],
-      "after": [
-        "error"
-      ]
-    },
+      "error": null
+    }
+  ],
+  "changelog": [
     {
       "timestamp": "2026-08-06T01:51:29.846179+00:00",
       "kind": "status_change",
@@ -13644,6 +13635,28 @@
         "copyright",
         "date",
         "explanation",
+        "media_type",
+        "service_version",
+        "title",
+        "url"
+      ]
+    },
+    {
+      "timestamp": "2026-09-14T06:45:49.710193+00:00",
+      "kind": "schema_change",
+      "before": [
+        "copyright",
+        "date",
+        "explanation",
+        "media_type",
+        "service_version",
+        "title",
+        "url"
+      ],
+      "after": [
+        "date",
+        "explanation",
+        "hdurl",
         "media_type",
         "service_version",
         "title",

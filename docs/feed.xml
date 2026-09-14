@@ -10,6 +10,14 @@
     <item>
       <title>NASA APOD API: schema changed</title>
       <link>https://stark256-spec.github.io/federal-api-watch/</link>
+      <description>Top-level keys changed from [&#39;copyright&#39;, &#39;date&#39;, &#39;explanation&#39;, &#39;media_type&#39;, &#39;service_version&#39;, &#39;title&#39;, &#39;url&#39;] to [&#39;date&#39;, &#39;explanation&#39;, &#39;hdurl&#39;, &#39;media_type&#39;, &#39;service_version&#39;, &#39;title&#39;, &#39;url&#39;]</description>
+      <pubDate>2026-09-14T06:45:49.710193+00:00</pubDate>
+      <guid isPermaLink="false">nasa-apod-2026-09-14T06:45:49.710193+00:00</guid>
+    </item>
+    
+    <item>
+      <title>NASA APOD API: schema changed</title>
+      <link>https://stark256-spec.github.io/federal-api-watch/</link>
       <description>Top-level keys changed from [&#39;date&#39;, &#39;explanation&#39;, &#39;hdurl&#39;, &#39;media_type&#39;, &#39;service_version&#39;, &#39;title&#39;, &#39;url&#39;] to [&#39;copyright&#39;, &#39;date&#39;, &#39;explanation&#39;, &#39;media_type&#39;, &#39;service_version&#39;, &#39;title&#39;, &#39;url&#39;]</description>
       <pubDate>2026-09-13T04:42:36.574225+00:00</pubDate>
       <guid isPermaLink="false">nasa-apod-2026-09-13T04:42:36.574225+00:00</guid>
@@ -125,14 +133,6 @@
       <description>FEC API changed status from up to down</description>
       <pubDate>2026-09-08T17:32:25.644653+00:00</pubDate>
       <guid isPermaLink="false">fec-2026-09-08T17:32:25.644653+00:00</guid>
-    </item>
-    
-    <item>
-      <title>NASA APOD API: schema changed</title>
-      <link>https://stark256-spec.github.io/federal-api-watch/</link>
-      <description>Top-level keys changed from [&#39;copyright&#39;, &#39;date&#39;, &#39;explanation&#39;, &#39;hdurl&#39;, &#39;media_type&#39;, &#39;service_version&#39;, &#39;title&#39;, &#39;url&#39;] to [&#39;date&#39;, &#39;explanation&#39;, &#39;hdurl&#39;, &#39;media_type&#39;, &#39;service_version&#39;, &#39;title&#39;, &#39;url&#39;]</description>
-      <pubDate>2026-09-08T04:56:46.962471+00:00</pubDate>
-      <guid isPermaLink="false">nasa-apod-2026-09-08T04:56:46.962471+00:00</guid>
     </item>
     
     <item>
