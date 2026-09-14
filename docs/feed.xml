@@ -8,6 +8,14 @@
     <atom:link href="https://stark256-spec.github.io/federal-api-watch/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
+      <title>Census Bureau ACS API: degraded → up</title>
+      <link>https://stark256-spec.github.io/federal-api-watch/</link>
+      <description>Census Bureau ACS API changed status from degraded to up</description>
+      <pubDate>2026-09-14T22:13:09.387844+00:00</pubDate>
+      <guid isPermaLink="false">census-acs-2026-09-14T22:13:09.387844+00:00</guid>
+    </item>
+    
+    <item>
       <title>Census Bureau ACS API: up → degraded</title>
       <link>https://stark256-spec.github.io/federal-api-watch/</link>
       <description>Census Bureau ACS API changed status from up to degraded</description>
@@ -221,14 +229,6 @@
       <description>FEC API changed status from up to down</description>
       <pubDate>2026-09-02T22:18:25.631606+00:00</pubDate>
       <guid isPermaLink="false">fec-2026-09-02T22:18:25.631606+00:00</guid>
-    </item>
-    
-    <item>
-      <title>Census Bureau ACS API: down → up</title>
-      <link>https://stark256-spec.github.io/federal-api-watch/</link>
-      <description>Census Bureau ACS API changed status from down to up</description>
-      <pubDate>2026-09-02T00:16:37.501252+00:00</pubDate>
-      <guid isPermaLink="false">census-acs-2026-09-02T00:16:37.501252+00:00</guid>
     </item>
     
     <item>
