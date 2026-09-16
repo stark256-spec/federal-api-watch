@@ -2,29 +2,10 @@
   "slug": "nasa-apod",
   "name": "NASA APOD API",
   "current_status": "up",
-  "current_latency_ms": 308,
-  "last_checked": "2026-09-16T02:40:05.189087+00:00",
+  "current_latency_ms": 487,
+  "last_checked": "2026-09-16T07:54:26.421651+00:00",
   "uptime_7d": 91.52,
   "history": [
-    {
-      "slug": "nasa-apod",
-      "timestamp": "2026-08-12T22:09:19.891668+00:00",
-      "status": "up",
-      "status_code": 200,
-      "latency_ms": 230,
-      "body_hash": "e8fafadf12271265",
-      "schema_sample": [
-        "copyright",
-        "date",
-        "explanation",
-        "hdurl",
-        "media_type",
-        "service_version",
-        "title",
-        "url"
-      ],
-      "error": null
-    },
     {
       "slug": "nasa-apod",
       "timestamp": "2026-08-12T22:58:41.901988+00:00",
@@ -12078,16 +12059,15 @@
         "url"
       ],
       "error": null
-    }
-  ],
-  "changelog": [
+    },
     {
-      "timestamp": "2026-08-06T04:59:30.139759+00:00",
-      "kind": "schema_change",
-      "before": [
-        "error"
-      ],
-      "after": [
+      "slug": "nasa-apod",
+      "timestamp": "2026-09-16T07:54:26.421651+00:00",
+      "status": "up",
+      "status_code": 200,
+      "latency_ms": 487,
+      "body_hash": "2c57615f59550400",
+      "schema_sample": [
         "date",
         "explanation",
         "hdurl",
@@ -12095,8 +12075,11 @@
         "service_version",
         "title",
         "url"
-      ]
-    },
+      ],
+      "error": null
+    }
+  ],
+  "changelog": [
     {
       "timestamp": "2026-08-06T04:59:30.139759+00:00",
       "kind": "status_change",
@@ -13685,6 +13668,29 @@
       ],
       "after": [
         "copyright",
+        "date",
+        "explanation",
+        "hdurl",
+        "media_type",
+        "service_version",
+        "title",
+        "url"
+      ]
+    },
+    {
+      "timestamp": "2026-09-16T07:54:26.421651+00:00",
+      "kind": "schema_change",
+      "before": [
+        "copyright",
+        "date",
+        "explanation",
+        "hdurl",
+        "media_type",
+        "service_version",
+        "title",
+        "url"
+      ],
+      "after": [
         "date",
         "explanation",
         "hdurl",
