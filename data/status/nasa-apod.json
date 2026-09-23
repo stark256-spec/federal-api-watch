@@ -2,29 +2,10 @@
   "slug": "nasa-apod",
   "name": "NASA APOD API",
   "current_status": "up",
-  "current_latency_ms": 454,
-  "last_checked": "2026-09-23T00:29:10.061133+00:00",
+  "current_latency_ms": 479,
+  "last_checked": "2026-09-23T05:01:24.245472+00:00",
   "uptime_7d": 91.96,
   "history": [
-    {
-      "slug": "nasa-apod",
-      "timestamp": "2026-08-14T22:41:23.895640+00:00",
-      "status": "up",
-      "status_code": 200,
-      "latency_ms": 563,
-      "body_hash": "f44d2e87f00a9dde",
-      "schema_sample": [
-        "copyright",
-        "date",
-        "explanation",
-        "hdurl",
-        "media_type",
-        "service_version",
-        "title",
-        "url"
-      ],
-      "error": null
-    },
     {
       "slug": "nasa-apod",
       "timestamp": "2026-08-14T22:58:27.765936+00:00",
@@ -12095,15 +12076,27 @@
         "url"
       ],
       "error": null
+    },
+    {
+      "slug": "nasa-apod",
+      "timestamp": "2026-09-23T05:01:24.245472+00:00",
+      "status": "up",
+      "status_code": 200,
+      "latency_ms": 479,
+      "body_hash": "7c83e8c7f263f7ef",
+      "schema_sample": [
+        "date",
+        "explanation",
+        "hdurl",
+        "media_type",
+        "service_version",
+        "title",
+        "url"
+      ],
+      "error": null
     }
   ],
   "changelog": [
-    {
-      "timestamp": "2026-08-07T10:43:52.703736+00:00",
-      "kind": "status_change",
-      "before": "down",
-      "after": "up"
-    },
     {
       "timestamp": "2026-08-07T12:26:28.265514+00:00",
       "kind": "status_change",
@@ -13743,6 +13736,29 @@
       "kind": "status_change",
       "before": "down",
       "after": "up"
+    },
+    {
+      "timestamp": "2026-09-23T05:01:24.245472+00:00",
+      "kind": "schema_change",
+      "before": [
+        "copyright",
+        "date",
+        "explanation",
+        "hdurl",
+        "media_type",
+        "service_version",
+        "title",
+        "url"
+      ],
+      "after": [
+        "date",
+        "explanation",
+        "hdurl",
+        "media_type",
+        "service_version",
+        "title",
+        "url"
+      ]
     }
   ]
 }
