@@ -2,29 +2,10 @@
   "slug": "nasa-apod",
   "name": "NASA APOD API",
   "current_status": "up",
-  "current_latency_ms": 574,
-  "last_checked": "2026-09-24T00:09:13.339918+00:00",
+  "current_latency_ms": 2008,
+  "last_checked": "2026-09-24T04:44:32.934417+00:00",
   "uptime_7d": 92.11,
   "history": [
-    {
-      "slug": "nasa-apod",
-      "timestamp": "2026-08-15T02:37:32.452136+00:00",
-      "status": "up",
-      "status_code": 200,
-      "latency_ms": 545,
-      "body_hash": "f44d2e87f00a9dde",
-      "schema_sample": [
-        "copyright",
-        "date",
-        "explanation",
-        "hdurl",
-        "media_type",
-        "service_version",
-        "title",
-        "url"
-      ],
-      "error": null
-    },
     {
       "slug": "nasa-apod",
       "timestamp": "2026-08-15T03:21:42.224572+00:00",
@@ -12098,15 +12079,28 @@
         "url"
       ],
       "error": null
+    },
+    {
+      "slug": "nasa-apod",
+      "timestamp": "2026-09-24T04:44:32.934417+00:00",
+      "status": "up",
+      "status_code": 200,
+      "latency_ms": 2008,
+      "body_hash": "7ec18b58129f0e04",
+      "schema_sample": [
+        "copyright",
+        "date",
+        "explanation",
+        "hdurl",
+        "media_type",
+        "service_version",
+        "title",
+        "url"
+      ],
+      "error": null
     }
   ],
   "changelog": [
-    {
-      "timestamp": "2026-08-07T12:26:28.265514+00:00",
-      "kind": "status_change",
-      "before": "up",
-      "after": "down"
-    },
     {
       "timestamp": "2026-08-07T13:47:45.320934+00:00",
       "kind": "status_change",
@@ -13755,6 +13749,29 @@
         "url"
       ],
       "after": [
+        "date",
+        "explanation",
+        "hdurl",
+        "media_type",
+        "service_version",
+        "title",
+        "url"
+      ]
+    },
+    {
+      "timestamp": "2026-09-24T04:44:32.934417+00:00",
+      "kind": "schema_change",
+      "before": [
+        "date",
+        "explanation",
+        "hdurl",
+        "media_type",
+        "service_version",
+        "title",
+        "url"
+      ],
+      "after": [
+        "copyright",
         "date",
         "explanation",
         "hdurl",
