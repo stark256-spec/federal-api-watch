@@ -1,30 +1,11 @@
 {
   "slug": "nasa-apod",
   "name": "NASA APOD API",
-  "current_status": "down",
-  "current_latency_ms": null,
-  "last_checked": "2026-09-30T19:59:28.156325+00:00",
-  "uptime_7d": 91.37,
+  "current_status": "degraded",
+  "current_latency_ms": 5612,
+  "last_checked": "2026-09-30T23:34:39.661575+00:00",
+  "uptime_7d": 91.22,
   "history": [
-    {
-      "slug": "nasa-apod",
-      "timestamp": "2026-08-15T19:16:22.311459+00:00",
-      "status": "up",
-      "status_code": 200,
-      "latency_ms": 413,
-      "body_hash": "54ccb93a9832baee",
-      "schema_sample": [
-        "copyright",
-        "date",
-        "explanation",
-        "hdurl",
-        "media_type",
-        "service_version",
-        "title",
-        "url"
-      ],
-      "error": null
-    },
     {
       "slug": "nasa-apod",
       "timestamp": "2026-08-15T19:42:32.209929+00:00",
@@ -12042,17 +12023,15 @@
       "body_hash": null,
       "schema_sample": null,
       "error": "timeout"
-    }
-  ],
-  "changelog": [
+    },
     {
-      "timestamp": "2026-08-08T13:31:03.065548+00:00",
-      "kind": "schema_change",
-      "before": [
-        "error"
-      ],
-      "after": [
-        "copyright",
+      "slug": "nasa-apod",
+      "timestamp": "2026-09-30T23:34:39.661575+00:00",
+      "status": "degraded",
+      "status_code": 200,
+      "latency_ms": 5612,
+      "body_hash": "0286ca13a8820409",
+      "schema_sample": [
         "date",
         "explanation",
         "hdurl",
@@ -12060,8 +12039,11 @@
         "service_version",
         "title",
         "url"
-      ]
-    },
+      ],
+      "error": null
+    }
+  ],
+  "changelog": [
     {
       "timestamp": "2026-08-08T13:31:03.065548+00:00",
       "kind": "status_change",
@@ -13810,6 +13792,12 @@
       "kind": "status_change",
       "before": "up",
       "after": "down"
+    },
+    {
+      "timestamp": "2026-09-30T23:34:39.661575+00:00",
+      "kind": "status_change",
+      "before": "down",
+      "after": "degraded"
     }
   ]
 }
