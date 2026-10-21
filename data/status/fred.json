@@ -2,23 +2,10 @@
   "slug": "fred",
   "name": "FRED Economic Data API",
   "current_status": "down",
-  "current_latency_ms": 246,
-  "last_checked": "2026-10-21T07:33:23.008589+00:00",
+  "current_latency_ms": 111,
+  "last_checked": "2026-10-21T13:13:15.361346+00:00",
   "uptime_7d": 0.0,
   "history": [
-    {
-      "slug": "fred",
-      "timestamp": "2026-08-18T04:36:24.950355+00:00",
-      "status": "down",
-      "status_code": 400,
-      "latency_ms": 429,
-      "body_hash": "1080bed3d7185b91",
-      "schema_sample": [
-        "error_code",
-        "error_message"
-      ],
-      "error": null
-    },
     {
       "slug": "fred",
       "timestamp": "2026-08-18T05:06:32.409736+00:00",
@@ -8720,6 +8707,19 @@
       "status": "down",
       "status_code": 400,
       "latency_ms": 246,
+      "body_hash": "1080bed3d7185b91",
+      "schema_sample": [
+        "error_code",
+        "error_message"
+      ],
+      "error": null
+    },
+    {
+      "slug": "fred",
+      "timestamp": "2026-10-21T13:13:15.361346+00:00",
+      "status": "down",
+      "status_code": 400,
+      "latency_ms": 111,
       "body_hash": "1080bed3d7185b91",
       "schema_sample": [
         "error_code",
