@@ -1,30 +1,11 @@
 {
   "slug": "nasa-apod",
   "name": "NASA APOD API",
-  "current_status": "down",
-  "current_latency_ms": 1772,
-  "last_checked": "2026-10-24T05:15:57.213690+00:00",
+  "current_status": "up",
+  "current_latency_ms": 532,
+  "last_checked": "2026-10-24T09:40:39.221412+00:00",
   "uptime_7d": 78.57,
   "history": [
-    {
-      "slug": "nasa-apod",
-      "timestamp": "2026-08-18T15:23:09.818557+00:00",
-      "status": "up",
-      "status_code": 200,
-      "latency_ms": 2560,
-      "body_hash": "5cd7b3878e7959fc",
-      "schema_sample": [
-        "copyright",
-        "date",
-        "explanation",
-        "hdurl",
-        "media_type",
-        "service_version",
-        "title",
-        "url"
-      ],
-      "error": null
-    },
     {
       "slug": "nasa-apod",
       "timestamp": "2026-08-18T15:54:35.033197+00:00",
@@ -11527,21 +11508,27 @@
         "service_version"
       ],
       "error": null
+    },
+    {
+      "slug": "nasa-apod",
+      "timestamp": "2026-10-24T09:40:39.221412+00:00",
+      "status": "up",
+      "status_code": 200,
+      "latency_ms": 532,
+      "body_hash": "478cfcb4834e568a",
+      "schema_sample": [
+        "date",
+        "explanation",
+        "hdurl",
+        "media_type",
+        "service_version",
+        "title",
+        "url"
+      ],
+      "error": null
     }
   ],
   "changelog": [
-    {
-      "timestamp": "2026-08-16T06:25:39.791900+00:00",
-      "kind": "status_change",
-      "before": "down",
-      "after": "up"
-    },
-    {
-      "timestamp": "2026-08-16T14:26:32.300198+00:00",
-      "kind": "status_change",
-      "before": "up",
-      "after": "down"
-    },
     {
       "timestamp": "2026-08-16T14:47:13.915871+00:00",
       "kind": "status_change",
@@ -13630,6 +13617,30 @@
       "kind": "status_change",
       "before": "up",
       "after": "down"
+    },
+    {
+      "timestamp": "2026-10-24T09:40:39.221412+00:00",
+      "kind": "schema_change",
+      "before": [
+        "code",
+        "msg",
+        "service_version"
+      ],
+      "after": [
+        "date",
+        "explanation",
+        "hdurl",
+        "media_type",
+        "service_version",
+        "title",
+        "url"
+      ]
+    },
+    {
+      "timestamp": "2026-10-24T09:40:39.221412+00:00",
+      "kind": "status_change",
+      "before": "down",
+      "after": "up"
     }
   ]
 }
