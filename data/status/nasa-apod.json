@@ -1,28 +1,11 @@
 {
   "slug": "nasa-apod",
   "name": "NASA APOD API",
-  "current_status": "up",
-  "current_latency_ms": 374,
-  "last_checked": "2026-11-24T17:03:59.306875+00:00",
-  "uptime_7d": 65.03,
+  "current_status": "down",
+  "current_latency_ms": 8965,
+  "last_checked": "2026-11-25T01:24:38.652515+00:00",
+  "uptime_7d": 64.88,
   "history": [
-    {
-      "slug": "nasa-apod",
-      "timestamp": "2026-08-21T22:15:16.718117+00:00",
-      "status": "up",
-      "status_code": 200,
-      "latency_ms": 355,
-      "body_hash": "1b1bfb0ce920fb1b",
-      "schema_sample": [
-        "date",
-        "explanation",
-        "media_type",
-        "service_version",
-        "title",
-        "url"
-      ],
-      "error": null
-    },
     {
       "slug": "nasa-apod",
       "timestamp": "2026-08-21T22:47:41.595444+00:00",
@@ -11109,21 +11092,23 @@
         "url"
       ],
       "error": null
+    },
+    {
+      "slug": "nasa-apod",
+      "timestamp": "2026-11-25T01:24:38.652515+00:00",
+      "status": "down",
+      "status_code": 500,
+      "latency_ms": 8965,
+      "body_hash": "b884c1c62ecfcd16",
+      "schema_sample": [
+        "code",
+        "msg",
+        "service_version"
+      ],
+      "error": null
     }
   ],
   "changelog": [
-    {
-      "timestamp": "2026-09-04T04:27:27.064544+00:00",
-      "kind": "status_change",
-      "before": "down",
-      "after": "degraded"
-    },
-    {
-      "timestamp": "2026-09-04T08:57:57.932790+00:00",
-      "kind": "status_change",
-      "before": "degraded",
-      "after": "up"
-    },
     {
       "timestamp": "2026-09-04T16:51:29.320239+00:00",
       "kind": "status_change",
@@ -13393,6 +13378,30 @@
       "kind": "status_change",
       "before": "down",
       "after": "up"
+    },
+    {
+      "timestamp": "2026-11-25T01:24:38.652515+00:00",
+      "kind": "schema_change",
+      "before": [
+        "date",
+        "explanation",
+        "hdurl",
+        "media_type",
+        "service_version",
+        "title",
+        "url"
+      ],
+      "after": [
+        "code",
+        "msg",
+        "service_version"
+      ]
+    },
+    {
+      "timestamp": "2026-11-25T01:24:38.652515+00:00",
+      "kind": "status_change",
+      "before": "up",
+      "after": "down"
     }
   ]
 }
